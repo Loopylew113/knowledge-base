@@ -15,7 +15,7 @@
 1. Go to the contracts tab.
 2. Choose ENS - Registry: 0x314159265dD8dbb310642f98f50C066173C1259b. Click `"Access"`.
 3. Select `setResolver`.
-4. Find you name on Etherscan.io and copy the namehash.
+4. Find your name on Etherscan.io and copy the namehash.
 5. Enter the namehash of your name under `node (bytes32)`.
 6. Enter the Public Resolver Address under `resolver (address)`: `0x5FfC014343cd971B7eb70732021E26C35B744cc4`
 7. Unlock the owner's account.
@@ -28,7 +28,7 @@
 1. Go to the contracts tab.
 2. Choose ENS-Public Resolver: 0x5FfC014343cd971B7eb70732021E26C35B744cc4. Click "Access".
 3. Select `setAddr`.
-4. Find you name on Etherscan.io and copy the namehash.
+4. Find your name on Etherscan.io and copy the namehash.
 5. Enter the Namehash of your name under "node (bytes32)".node (bytes32):
 6. Enter the Address you would like to resolve to under `addr (address)`
 7. Unlock the owner's account.
